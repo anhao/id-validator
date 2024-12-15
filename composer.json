@@ -1,5 +1,5 @@
 {
-    "name": "jxlwqq/id-validator",
+    "name": "anhao/id-validator",
     "description": "Chinese Mainland Personal ID Card Validation",
     "type": "library",
     "license": "MIT",
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "php": ">=5.6.0"
+        "php": ">=8.1"
     },
     "autoload": {
         "psr-4": {
