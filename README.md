@@ -17,7 +17,7 @@
 ## 安装
 
 ```bash
-composer require "jxlwqq/id-validator"
+composer require "anhao/id-validator"
 ```
 
 > 注：如果 require 失败，解决方案见 [#13](https://github.com/jxlwqq/id-validator/pull/13)。

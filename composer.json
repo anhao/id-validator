@@ -8,7 +8,11 @@
             "name": "jxlwqq",
             "email": "jxlwqq@gmail.com",
             "homepage": "https://jxlwqq.github.io"
-
+        },
+        {
+            "name": "Anhao",
+            "email": "im@alone88.cn",
+            "homepage": "https://github.com/anhao"
         }
     ],
     "require": {
@@ -16,12 +20,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Jxlwqq\\IdValidator\\": "src/"
+            "Anhao\\IdValidator\\": "src/"
         }
     },
     "autoload-dev": {
        "psr-4": {
-         "Jxlwqq\\IdValidator\\Tests\\" : "tests/"
+         "Anhao\\IdValidator\\Tests\\" : "tests/"
        }
     },
     "require-dev": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Jxlwqq\IdValidator;
+namespace Anhao\IdValidator;
 
 /**
  * Trait Helper.
